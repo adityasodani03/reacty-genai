@@ -1,0 +1,9 @@
+folder create ---> frontend
+folder create ---> backend
+
+IN backend folder ---->
+uv init .
+venv ---> activate
+requirements---> install
+__init__.py
+state.py
